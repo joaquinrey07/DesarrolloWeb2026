@@ -46,13 +46,13 @@
     border-radius: 30px;
     border: none;
     margin: 15px 35px;
-    background-color: #FEEE30;
+    background-color: yellow;
 }
 
 .card-2 {
     width: 540px;
     height: 300px;
-    background-color: #E40000;
+    background-color: red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -88,6 +88,6 @@
     width: 150px;
     height: 20px;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 25px;
     border: none;
 }
