@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: #DAD7D7;
+    width: 900px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    width: 780px;
+    height: 100px;
+    background-color: #1F8714;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.row-2 {
+    display: flex;
+    justify-content: space-between;
+    width: 780px;
+}
+
+.card-1 {
+    width: 220px;
+    height: 440px;
+    background-color: #2D5FDE;
+    margin-right: 20px;
+}
+
+.botones {
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    border: none;
+    margin: 15px 35px;
+    background-color: #FEEE30;
+}
+
+.card-2 {
+    width: 540px;
+    height: 300px;
+    background-color: #E40000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.card-roja {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.amarillo {
+    background-color: yellow;
+    width: 145px;
+    height: 140px;
+}
+
+.morado {
+    background-color: #8E2487;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learnmore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
